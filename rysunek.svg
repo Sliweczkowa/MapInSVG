@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <!-- Map downloaded from https://mapy.net.pl/mapa-scienna-sosnowca-pietka/9910 -->
 
 <svg
@@ -25,15 +26,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="4"
-     inkscape:cx="755.75"
-     inkscape:cy="171.625"
+     inkscape:zoom="8"
+     inkscape:cx="753.125"
+     inkscape:cy="178.5625"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer10" /><defs
+     inkscape:current-layer="layer6" /><defs
      id="defs1"><rect
        x="297.79025"
        y="750.36802"
@@ -196,7 +197,12 @@
        y="578.34735"
        width="19.395201"
        height="29.628849"
-       id="rect10-25-8" /></defs><g
+       id="rect10-25-8" /><rect
+       x="531.66241"
+       y="425.23248"
+       width="17.640862"
+       height="18.030714"
+       id="rect8-7-2-4" /></defs><g
      inkscape:label="OriginalMap"
      inkscape:groupmode="layer"
      id="layer1"
@@ -398,7 +404,7 @@
                inkscape:label="P"><tspan
                  x="531.66211"
                  y="436.31377"
-                 id="tspan1">P</tspan></text></g><g
+                 id="tspan2">P</tspan></text></g><g
              id="g8-7-0"
              inkscape:label="parking_icon"
              transform="translate(67.019262,14.718903)"
@@ -417,7 +423,7 @@
                inkscape:label="P"><tspan
                  x="531.66211"
                  y="436.31377"
-                 id="tspan2">P</tspan></text></g><g
+                 id="tspan3">P</tspan></text></g><g
              id="g8-7-24"
              inkscape:label="parking_icon"
              transform="translate(20.155738,-17.52375)"
@@ -436,7 +442,7 @@
                inkscape:label="P"><tspan
                  x="531.66211"
                  y="436.31377"
-                 id="tspan3">P</tspan></text></g><g
+                 id="tspan4">P</tspan></text></g><g
              id="g8-7-2"
              inkscape:label="parking_icon"
              transform="translate(-0.15467059,0.01423892)"><rect
@@ -454,7 +460,7 @@
                inkscape:label="P"><tspan
                  x="531.66211"
                  y="436.31377"
-                 id="tspan4">P</tspan></text></g><g
+                 id="tspan5">P</tspan></text></g><g
              id="g8-7-1"
              inkscape:label="parking_icon"
              transform="translate(3.3936275,-63.066178)"><rect
@@ -472,7 +478,7 @@
                inkscape:label="P"><tspan
                  x="531.66211"
                  y="436.31377"
-                 id="tspan5">P</tspan></text></g><g
+                 id="tspan6">P</tspan></text></g><g
              id="g8-7-7"
              inkscape:label="parking_icon"
              transform="translate(16.24086,-68.691457)"><rect
@@ -490,7 +496,31 @@
                inkscape:label="P"><tspan
                  x="531.66211"
                  y="436.31377"
-                 id="tspan6">P</tspan></text></g></g></g></g><g
+                 id="tspan7">P</tspan></text></g><g
+             id="g5"
+             inkscape:label="white_parking_icon"
+             style="opacity:1"
+             sodipodi:insensitive="true"><rect
+               style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.06;stroke-dasharray:none"
+               id="rect3"
+               width="4.4201159"
+               height="4.4201159"
+               x="173.45451"
+               y="-113.16534"
+               transform="rotate(45)"
+               inkscape:label="white_rectangle" /><path
+               id="rect3-6"
+               style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.06;stroke-dasharray:none"
+               d="m 202.67083,41.80313 -3.98632,3.986321 3.98632,3.986322 3.98632,-3.986322 z m 0,0.86093 3.12539,3.125391 -3.12539,3.125391 -3.12539,-3.125391 z"
+               inkscape:label="blue_rectangle" /><text
+               xml:space="preserve"
+               id="text7-2-5-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1462px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect8-7-2-4);display:inline;opacity:1;fill:#0000ff;stroke:#000000;stroke-width:0.16545;stroke-dasharray:none;stroke-opacity:1"
+               transform="matrix(0.41662267,0,0,0.31566441,-20.297646,-90.545476)"
+               inkscape:label="P"><tspan
+                 x="531.66211"
+                 y="436.31377"
+                 id="tspan8">P</tspan></text></g></g></g></g><g
        inkscape:groupmode="layer"
        id="layer7"
        inkscape:label="Rails"
@@ -536,9 +566,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan8"><tspan
+                 id="tspan10"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan7">S</tspan></tspan></text></g><g
+                   id="tspan9">S</tspan></tspan></text></g><g
              id="g10-1"
              inkscape:label="school_symbol"
              transform="translate(15.929857,-14.306659)"><path
@@ -557,9 +587,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan10"><tspan
+                 id="tspan12"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan9">S</tspan></tspan></text></g><g
+                   id="tspan11">S</tspan></tspan></text></g><g
              id="g10-4"
              inkscape:label="school_symbol"
              transform="translate(102.1819,48.953485)"><path
@@ -578,9 +608,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan12"><tspan
+                 id="tspan14"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan11">S</tspan></tspan></text></g><g
+                   id="tspan13">S</tspan></tspan></text></g><g
              id="g10-12"
              inkscape:label="school_symbol"
              transform="translate(134.85441,59.984489)"><path
@@ -599,9 +629,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan14"><tspan
+                 id="tspan16"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan13">S</tspan></tspan></text></g><g
+                   id="tspan15">S</tspan></tspan></text></g><g
              id="g10-5"
              inkscape:label="school_symbol"
              transform="translate(169.12148,31.490985)"><path
@@ -620,9 +650,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan16"><tspan
+                 id="tspan18"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan15">S</tspan></tspan></text></g><g
+                   id="tspan17">S</tspan></tspan></text></g><g
              id="g10-8"
              inkscape:label="school_symbol"
              transform="translate(157.95786,0.19294015)"><path
@@ -641,9 +671,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan18"><tspan
+                 id="tspan20"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan17">S</tspan></tspan></text></g><g
+                   id="tspan19">S</tspan></tspan></text></g><g
              id="g10-3"
              inkscape:label="school_symbol"
              transform="translate(150.74866,-20.02769)"><path
@@ -662,9 +692,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan20"><tspan
+                 id="tspan22"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan19">S</tspan></tspan></text></g><g
+                   id="tspan21">S</tspan></tspan></text></g><g
              id="g10-59"
              inkscape:label="school_symbol"
              transform="translate(129.09646,-19.418421)"><path
@@ -683,9 +713,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan22"><tspan
+                 id="tspan24"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan21">S</tspan></tspan></text></g><g
+                   id="tspan23">S</tspan></tspan></text></g><g
              id="g10-35"
              inkscape:label="school_symbol"
              transform="translate(176.3496,-33.504971)"><path
@@ -704,9 +734,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan24"><tspan
+                 id="tspan26"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan23">S</tspan></tspan></text></g><g
+                   id="tspan25">S</tspan></tspan></text></g><g
              id="g10-10"
              inkscape:label="school_symbol"
              transform="translate(12.442383,-75.108933)"><path
@@ -725,9 +755,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan26"><tspan
+                 id="tspan28"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan25">S</tspan></tspan></text></g><g
+                   id="tspan27">S</tspan></tspan></text></g><g
              id="g10-0"
              inkscape:label="school_symbol"
              transform="translate(59.776863,-84.423361)"><path
@@ -746,9 +776,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan28"><tspan
+                 id="tspan30"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan27">S</tspan></tspan></text></g><g
+                   id="tspan29">S</tspan></tspan></text></g><g
              id="g10-07"
              inkscape:label="school_symbol"
              transform="translate(70.724398,-96.284158)"><path
@@ -767,9 +797,9 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan30"><tspan
+                 id="tspan32"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan29">S</tspan></tspan></text></g><g
+                   id="tspan31">S</tspan></tspan></text></g><g
              id="g10-128"
              inkscape:label="school_symbol"
              transform="translate(16.831349,-143.55898)"><path
@@ -788,12 +818,13 @@
                inkscape:label="S"><tspan
                  x="159.83984"
                  y="601.45999"
-                 id="tspan32"><tspan
+                 id="tspan34"><tspan
                    style="fill:#ffffff;stroke:#000000"
-                   id="tspan31">S</tspan></tspan></text></g></g><g
+                   id="tspan33">S</tspan></tspan></text></g></g><g
            inkscape:groupmode="layer"
            id="layer10"
-           inkscape:label="church_icons"><path
+           inkscape:label="church_icons"
+           sodipodi:insensitive="true"><path
              id="path3"
              style="opacity:1;fill:#800000;stroke:#000000;stroke-width:0.0600001"
              d="m 77.197355,151.58868 v 1.06919 h -1.419551 v 0.43046 h 1.419551 v 2.63136 a 1.6837981,1.6837981 0 0 0 -1.473295,1.66864 1.6837981,1.6837981 0 0 0 1.684135,1.68361 1.6837981,1.6837981 0 0 0 1.683618,-1.68361 1.6837981,1.6837981 0 0 0 -1.473295,-1.67019 v -2.62981 h 1.419552 v -0.43046 h -1.419552 v -1.06919 z"
@@ -805,7 +836,7 @@
              d="m 77.017521,125.88431 v 1.06918 H 75.59797 v 0.43047 h 1.419551 v 1.53582 l -1.51877,1.00252 0.234611,0.35554 1.284159,-0.8475 v 0.58498 a 1.6837981,1.6837981 0 0 0 -1.473295,1.66863 1.6837981,1.6837981 0 0 0 1.684135,1.68362 1.6837981,1.6837981 0 0 0 1.683618,-1.68362 1.6837981,1.6837981 0 0 0 -1.473295,-1.67018 v -0.86145 l 1.519287,-1.00304 -0.234611,-0.35553 -1.284676,0.84801 v -1.2578 h 1.419552 v -0.43047 h -1.419552 v -1.06918 z"
              sodipodi:insensitive="true" /><path
              id="path3-6"
-             style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.0600001;fill-opacity:1"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0600001"
              d="m 196.10433,41.437295 v 1.06919 h -1.41955 v 0.43046 h 1.41955 v 2.63136 a 1.6837981,1.6837981 0 0 0 -1.47329,1.66864 1.6837981,1.6837981 0 0 0 1.68414,1.68361 1.6837981,1.6837981 0 0 0 1.68361,-1.68361 1.6837981,1.6837981 0 0 0 -1.47329,-1.67019 v -2.62981 h 1.41955 v -0.43046 h -1.41955 v -1.06919 z"
              inkscape:label="church3" /></g><g
            id="g13"
@@ -824,7 +855,7 @@
              inkscape:label="H"><tspan
                x="159.83984"
                y="589.07548"
-               id="tspan33">H</tspan></text><path
+               id="tspan35">H</tspan></text><path
              id="path14"
              style="opacity:1;fill:#0000ff;stroke:#000000;stroke-width:0.06;stroke-dasharray:none;stroke-opacity:1"
              d="m 74.882251,191.16198 c -0.841743,0.55544 -1.158632,0.74415 -1.999878,1.30034 l -2.016931,1.30034 v 0.35234 l 1.488281,-0.93338 v 4.39857 h 5.058606 v -4.39857 l 1.372526,0.93338 v -0.35234 c -0.420825,-0.27779 -1.529511,-1.02367 -1.951302,-1.30034 -0.421792,-0.27668 -1.529215,-1.02448 -1.951302,-1.30034 z m 0,0.35191 2.000395,1.3131 v 0.35463 3.86888 h -4.000273 v -4.22351 z"
